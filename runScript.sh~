@@ -16,5 +16,3 @@ echo "Bitmap 256 bits"
 time ./jaccardBitmap trumpJoin.txt > out.txt
 echo "Bitmap 64 bits"
 time ./jaccardBitmap64 trumpJoin.txt > out.txt
-
-rm out.txt
